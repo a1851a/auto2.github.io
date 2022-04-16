@@ -1,0 +1,70 @@
+
+.left{ 
+	width:42%;
+	height:50vh;
+	float:left;
+	padding:2%;
+}
+.right{
+	width:50%;
+	height:50vh;
+	float:left;
+	padding:2%;
+}
+.picture{
+  margin-left:20px;
+  text-align:center;
+  margin-top:10px;
+  margin-bottom:10PX;
+}
+.name{
+  margin-left:20px;
+  text-align:left;
+  margin-top:10px;
+  margin-bottom:10PX;
+}
+.autography{
+  margin-left:20px;
+  text-align:center;
+  margin-top:10px;
+  margin-bottom:10PX; 
+}
+.experience{
+  margin-left:20px;
+  text-align:center;
+  margin-top:10px;
+  margin-bottom:10PX;
+}
+.programingskill{
+  text-align:center;
+  margin-left:20px;
+  margin-top:10px;
+  margin-bottom:10PX;
+}
+.education{
+  margin-left:20px;
+  text-align:center;
+  margin-top:10px;
+  margin-bottom:10PX;
+}
+h1{
+  font-size:35px;
+  color:black;
+}
+h2{
+  font-size:20px;
+  color:black;
+}
+h3{
+  font-size:15px;
+  color:gray;
+}
+h4{
+  text-align:left;
+  font-size:20px;
+  color:black;
+}
+hr{
+	height:2px;
+	background-color:rgb(85, 78, 78);
+}
